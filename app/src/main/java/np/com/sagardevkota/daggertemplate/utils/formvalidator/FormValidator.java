@@ -5,11 +5,16 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import np.com.sagardevkota.daggertemplate.utils.formvalidator.models.Rule;
-import np.com.sagardevkota.daggertemplate.utils.formvalidator.models.ValidationResponse;
+
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+
+import javax.inject.Inject;
+
+import np.com.sagardevkota.daggertemplate.utils.formvalidator.models.Rule;
+import np.com.sagardevkota.daggertemplate.utils.formvalidator.models.ValidationResponse;
 
 public class FormValidator {
     FormValidator mInstance;
@@ -17,6 +22,7 @@ public class FormValidator {
     //Drawable icon;
     List<ValidationRule> rules=new ArrayList<>();
 
+    @Inject
     public FormValidator() {
         // TODO Auto-generated constructor stub
 

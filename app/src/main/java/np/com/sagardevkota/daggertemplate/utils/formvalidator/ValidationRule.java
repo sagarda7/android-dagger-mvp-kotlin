@@ -3,6 +3,7 @@ package np.com.sagardevkota.daggertemplate.utils.formvalidator;
 import android.view.View;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 import np.com.sagardevkota.daggertemplate.utils.formvalidator.models.Rule;
