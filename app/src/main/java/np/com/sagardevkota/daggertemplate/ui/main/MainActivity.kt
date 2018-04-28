@@ -12,14 +12,11 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
-import android.widget.TextView
 
 import com.tealbox.app.R
 
 import np.com.sagardevkota.daggertemplate.ui.base.BaseActivity
-import np.com.sagardevkota.daggertemplate.ui.main.fragments.HomeFragment
-import np.com.sagardevkota.daggertemplate.ui.main.presenters.MainPresenter
-import np.com.sagardevkota.daggertemplate.ui.main.views.MainMvpView
+import np.com.sagardevkota.daggertemplate.ui.main.fragments.home.HomeFragment
 
 import javax.inject.Inject
 

@@ -6,7 +6,7 @@ import np.com.sagardevkota.daggertemplate.injection.modules.DatabaseModule
 import np.com.sagardevkota.daggertemplate.injection.modules.FragmentModule
 import np.com.sagardevkota.daggertemplate.injection.modules.RealmModule
 import np.com.sagardevkota.daggertemplate.injection.scopes.PerFragment
-import np.com.sagardevkota.daggertemplate.ui.main.fragments.HomeFragment
+import np.com.sagardevkota.daggertemplate.ui.main.fragments.home.HomeFragment
 
 /**
  * Created by HP on 10/22/2016.

@@ -1,4 +1,4 @@
-package np.com.sagardevkota.daggertemplate.ui.main.presenters
+package np.com.sagardevkota.daggertemplate.ui.main
 
 import android.content.Context
 
@@ -11,7 +11,6 @@ import java.util.ArrayList
 
 import javax.inject.Inject
 
-import np.com.sagardevkota.daggertemplate.ui.main.views.MainMvpView
 import retrofit2.adapter.rxjava.HttpException
 
 /**

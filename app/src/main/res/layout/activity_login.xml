@@ -120,7 +120,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="SIGN UP"
-                style="@style/MTextView.Small.Bold.Green"
+                style="@style/MTextView.Small.Bold.Primary"
                 android:layout_marginLeft="10dp"
                 android:id="@+id/txt_act_login_signup" />
 

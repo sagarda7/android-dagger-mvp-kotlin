@@ -1,4 +1,4 @@
-package np.com.sagardevkota.daggertemplate.ui.main.fragments
+package np.com.sagardevkota.daggertemplate.ui.main.fragments.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -13,8 +13,6 @@ import javax.inject.Inject
 import butterknife.BindView
 import butterknife.ButterKnife
 import np.com.sagardevkota.daggertemplate.ui.base.BaseFragment
-import np.com.sagardevkota.daggertemplate.ui.main.presenters.HomeFragmentPresenter
-import np.com.sagardevkota.daggertemplate.ui.main.views.HomeFragmentMvpView
 
 /**
  * Created by Dell on 12/20/2016.

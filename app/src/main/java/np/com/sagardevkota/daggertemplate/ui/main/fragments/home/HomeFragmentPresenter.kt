@@ -1,11 +1,10 @@
-package np.com.sagardevkota.daggertemplate.ui.main.presenters
+package np.com.sagardevkota.daggertemplate.ui.main.fragments.home
 
 
 import javax.inject.Inject
 
 import np.com.sagardevkota.daggertemplate.data.remote.ApiInterface
 import np.com.sagardevkota.daggertemplate.ui.base.BasePresenter
-import np.com.sagardevkota.daggertemplate.ui.main.views.HomeFragmentMvpView
 
 /**
  * Created by Dell on 12/20/2016.
